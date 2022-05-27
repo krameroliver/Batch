@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mongo.host",
+      "type": "java.lang.String",
+      "description": "Description for mongo.host."
+  }
+] }
